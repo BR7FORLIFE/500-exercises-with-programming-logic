@@ -1,59 +1,61 @@
-# AngularApiUser
+# 🧩 500 Ejercicios de Lógica de Programación
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.4.
+## 🎯 Objetivo del Repositorio
 
-## Development server
+El objetivo de este repositorio es **resolver 500 ejercicios de lógica de programación** utilizando distintos lenguajes como **Java, Python y JavaScript/TypeScript**.  
+Este proyecto está pensado para:
 
-To start a local development server, run:
+- Mejorar tus habilidades de programación.
+- Practicar resolución de problemas y algoritmos.
+- Aprender diferentes enfoques y estilos de codificación en varios lenguajes.
 
-```bash
-ng serve
-```
+---
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+## 📚 Contenido
 
-## Code scaffolding
+Cada carpeta contiene ejercicios organizados por lenguaje:
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+/java
+/python
+/javascript
+/typescript
 
-```bash
-ng generate component component-name
-```
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+Dentro de cada carpeta, los ejercicios están numerados y comentados para facilitar el aprendizaje y la comprensión.
 
-```bash
-ng generate --help
-```
+---
 
-## Building
+## 🚀 Cómo Contribuir
 
-To build the project run:
+Si quieres contribuir:
 
-```bash
-ng build
-```
+1. Haz un fork de este repositorio.
+2. Crea una rama con el nombre de tu lenguaje y número de ejercicio:  
+   `feature/python/ejercicio-001`
+3. Añade tu solución con comentarios claros.
+4. Haz un pull request describiendo los cambios realizados.
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+---
 
-## Running unit tests
+## 🛠 Tecnologías Utilizadas
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+- **Python** 🐍
+- **Java** ☕
+- **JavaScript / TypeScript** 💻
 
-```bash
-ng test
-```
+---
 
-## Running end-to-end tests
+## 📌 Recomendaciones
 
-For end-to-end (e2e) testing, run:
+- Intenta resolver los ejercicios por ti mismo antes de revisar las soluciones.
+- Comenta tu código para entender la lógica detrás de cada solución.
+- Revisa diferentes implementaciones para mejorar tu estilo y eficiencia de codificación.
 
-```bash
-ng e2e
-```
+---
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+## ⚡ Motivación
 
-## Additional Resources
+Este repositorio es ideal para **estudiantes, programadores principiantes y cualquier persona que quiera reforzar su lógica de programación**. Con la práctica constante, podrás mejorar tu pensamiento algorítmico y tu habilidad para resolver problemas de manera más eficiente.
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+---
+## BR7FORLIFE
