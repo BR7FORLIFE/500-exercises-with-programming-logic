@@ -10,7 +10,11 @@ function calculateOptimusRoute(matrix) {
   dp[0] = flat[0];
 
   for (let j = 1; j < cols; j++) {
-    dp[getIndex(0, j)] = dp[getIndex(0, j - 1)] + flat[getIndex(0, j)];
+    // INDICES
+    //       1                         0                     1
+    dp[getIndex(0, j)] = dp[getIndex(0, j - 1)] + flat[getIndex(0, j)]; 
+
+    //      0                         1                      3
   }
 
   for (let i = 1; i < rows; i++) {
